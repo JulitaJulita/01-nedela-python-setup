@@ -1,1 +1,7 @@
 print('Hello from VS Code')
+print ('       *       ')
+print ('      ***      ')
+print ('     *****     ')
+print ('    *******    ')
+print ('       П       ')
+print ('Merry Christmas?')
